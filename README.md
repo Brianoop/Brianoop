@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **Afrilearn**
 
-- 🌱 I’m currently learning **Node JS, Django, Flask, ML and generative AI.**
+- 🌱 I’m currently learning **Microservices, WebRTC, Large Language Models, ML and generative AI.**
 
 - 👯 I’m looking to collaborate on **Video Streaming Projects**
 
-- 💬 Ask me about **GoLang, Python, PHP, Flutter, SQL, Node JS**
+- 💬 Ask me about **GoLang, Python, PHP, Flutter, SQL, C++**
 
 - 📫 How to reach me **brianangoda99@gmail.com**
 
