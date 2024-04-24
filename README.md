@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/brio_brianoop" target="blank"><img src="https://img.shields.io/twitter/follow/brio_brianoop?logo=twitter&style=for-the-badge" alt="brio_brianoop" /></a> </p>
 
-- 🔭 I’m currently working on **Afrilearn**
+- 🔭 I’m currently working on **LastMinuteReader**
 
 - 🌱 I’m currently learning **Microservices, WebRTC, Large Language Models, ML and generative AI.**
 
